@@ -186,6 +186,7 @@ const Connections = ({ viewMode, selectedChords }) => {
   // Default return if none of the conditions match
   return null;
 };
+//9
 
 
 export default Connections;
