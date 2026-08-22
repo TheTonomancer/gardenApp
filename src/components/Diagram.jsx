@@ -77,3 +77,4 @@ const Diagram = ({ handleChordSelect, selectedChords, possibleChords = [], onCho
 };
 
 export default Diagram;
+//commit 10
