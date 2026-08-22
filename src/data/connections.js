@@ -677,3 +677,5 @@ export const chordRootOffsets = {
 }
 
 export const matrix = ["Gb","G","Ab","Eb","E","F","C","Db","D","A","Bb","B",]
+
+//commit 7
